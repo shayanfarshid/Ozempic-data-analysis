@@ -6,3 +6,5 @@ hypertensive patients aged 40-75. A key focus is on addressing endogeneity to es
 treatment effect accurately. Through exploratory data analysis, data merging, and the application of
 advanced statistical techniques, we will uncover causal relationships and provide insights into the
 dataset
+
+## Outcome: Treatment effect of -13.95 suggests that the use of Ozempic has a negative impact on the target patient population. Meaning, on average, patients who received Ozempic experienced a decrease in the target outcome compared to those who didn't receive the treatment.
